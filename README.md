@@ -143,4 +143,5 @@ Pour réaliser cette exercice, vous devez bien évidemment vous reporter à la d
 1. Comment déboguer le programme en visualisant le contenu d'une ou plusieurs variables ?
     > Répondre ici
 1. Quels paramètres ou fonctionnalités vous semblent particulièrement importants/utiles pour le développement Java ?
-    > Répondre ici
+    > Répondre ici****
+    
