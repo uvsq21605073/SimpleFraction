@@ -2,7 +2,8 @@
 public class main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Fraction F = new Fraction("Hello World");
+		System.out.print(F.toString());
 
 	}
 
